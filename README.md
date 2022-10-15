@@ -1,10 +1,10 @@
 
 <h3 align="center">A passionate fullstack web-developer from India</h3>
 
-<p align="left"> <img src="![1](https://user-images.githubusercontent.com/103853109/195975472-7b94126c-c48a-4a93-9924-126642664a6b.gif")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar7859&label=Profile%20views&color=0e75b6&style=flat")
 " alt="rajkumar7859" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/103853109/195975472-7b94126c-c48a-4a93-9924-126642664a6b.gif" />
+<img align="right" alt="coding" width="400" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif" />
 
 - 🌱 I’m currently learning **React.js ,Javascript etc**
 
