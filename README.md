@@ -29,6 +29,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar7859&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajkumar7859&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
