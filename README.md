@@ -1,8 +1,6 @@
-<img align="right" alt="coding" width="400" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif" /><h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Rajkumar vishwakarma </h1>
+<img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" width="100%"/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Pradyuman Shukla</h1>
 <h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar7859&label=Profile%20views&color=0e75b6&style=flat")
-" alt="rajkumar7859" /> </p>
 
 🌍 I'm based in Mumbai, India
 
@@ -12,14 +10,13 @@
 
 😃 My interest includes Cybersecurity & Technology related things.
 
-📧 Email - rajkumarvishwakarma8759@gmail.com
+📧 Email - shuklapradyuman786@gmail.com
 
-💼 Portfolio - [https://rajkumar7859.github.io/](https://rajkumar7859.github.io/)
+💼 Portfolio - [pradyumancoder.github.io](https://pradyumancoder.github.io)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkumar vishwakarma/) 
-  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rajkumar_Vishwakarma/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradyuman-shukla/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shuklapradyuman786)
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -44,6 +41,6 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rajkumar7859&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajkumar7859&theme=react&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pradyumancoder&theme=react&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar7859&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradyumancoder&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
